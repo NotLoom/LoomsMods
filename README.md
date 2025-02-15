@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/80b9fda9-0ea8-452e-8b9d-5c90d5bc2751)
+
+
 LoomsMods - Windows 11 Tweaking & Optimization Tool
 
 LoomsMods is a modular Windows 11 customization and optimization tool. It allows users to tweak appearance, performance, gaming, network settings, and privacy options.
